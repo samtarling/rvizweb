@@ -22,7 +22,7 @@
   "homepage": "https://github.com/osrf/rvizweb#readme",
   "devDependencies": {
     "bower": "^1.8.8",
-    "polymer-cli": "^1.9.7"
+    "polymer-cli": "^1.9.11"
   },
   "dependencies": {
     "@bower_components/app-layout": "PolymerElements/app-layout#^3.0.0",
